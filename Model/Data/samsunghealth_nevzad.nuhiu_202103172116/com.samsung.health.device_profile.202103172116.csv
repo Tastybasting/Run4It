@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6156001,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2020-04-15 10:46:51.614,2020-04-15 10:46:51.614,My Device,SM-G970F,,F5JW66Upzd,com.sec.android.app.shealth,Galaxy S10e,29c7a574-5d1a-6a8e-9413-08a0322f6a33,
+Samsung Electronics,1,23,10049,1,c5ca01d9-d11e-50c1-1630-947379157a6a.capability.json,360003,2021-03-01 05:58:59.731,2020-04-15 10:46:51.632,Galaxy Watch Active2,,,ltHsc2Rtmp,com.sec.android.app.shealth,Galaxy S10e,c5ca01d9-d11e-50c1-1630-947379157a6a,
+Combined,,,,,,0,2020-04-15 10:46:51.926,2020-04-15 10:46:51.926,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Galaxy S10e,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2020-04-15 10:46:55.685,2020-04-15 10:46:55.685,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Galaxy S10e,471ca32b-a665-1e9e-7c27-7ac69485dc05,

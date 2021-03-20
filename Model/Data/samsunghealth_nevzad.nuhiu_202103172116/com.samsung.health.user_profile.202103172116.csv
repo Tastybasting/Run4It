@@ -1,0 +1,11 @@
+com.samsung.health.user_profile,6156001,8
+text_value,float_value,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+CHE,,2020-04-15 10:46:53.140,2020-04-15 10:46:53.144,,country,,,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001,
+,77.0,2021-03-17 20:15:26.218,2021-03-17 20:15:26.251,,weight,,,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000006,
+,,2020-04-26 08:34:36.172,2020-04-26 08:34:36.174,,food_auto_fill,,0,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000001b,
+,,2021-03-17 20:15:00.074,2021-03-17 20:15:01.114,,activity_type,,180003,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000b,
+,175.0,2021-03-17 20:15:26.215,2021-03-17 20:15:26.218,,height,,,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000008,
+,,2020-04-26 08:34:46.482,2020-04-26 08:33:38.114,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,
+19550324,,2021-03-17 20:15:26.222,2021-03-17 20:15:26.289,,birth_date,,,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000a,
+,,2020-03-24 09:27:21.949,2018-01-01 12:09:08.056,,step_calibration,00000000-0000-0000-0000-000000000017.step_calibration.json,,ltHsc2Rtmp,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000017,
+M,,2021-03-17 20:15:26.219,2021-03-17 20:15:26.268,,gender,,,F5JW66Upzd,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000005,

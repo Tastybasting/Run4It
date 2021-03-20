@@ -1,0 +1,5 @@
+com.samsung.shealth.preferences,6156001,1
+text_value,float_value,update_time,create_time,long_value,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,2021-03-17 20:14:33.987,2020-04-15 10:46:51.763,,,1,F5JW66Upzd,com.sec.android.app.shealth,,oobe.sensitive_data_agreement,
+,,2020-04-15 10:46:44.033,2020-04-15 10:46:51.765,,,1,F5JW66Upzd,com.sec.android.app.shealth,,settings.marketing_agreement,
+,,2021-03-17 20:15:35.024,2020-04-15 10:46:51.766,,,1,F5JW66Upzd,com.sec.android.app.shealth,,settings.personalization_agreement,
